@@ -2,6 +2,7 @@
 
 🎓 Software Engineering Undergraduate at NIBM  
 💻 Interested in Web Development,Mobile Development and Buissness Analyst 
+
 🌱 Currently learning Java,Python and othere Languages  
 📌 Building academic & personal projects  
 
