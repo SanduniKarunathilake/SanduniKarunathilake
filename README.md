@@ -15,4 +15,5 @@
 ### Projects
 - Smart Drop Locker (IoT Project)  
 - Sports Academy Management System  
-- Tournament Registration System 
+- Tournament Registration System
+- Chess Blunder Prediction
